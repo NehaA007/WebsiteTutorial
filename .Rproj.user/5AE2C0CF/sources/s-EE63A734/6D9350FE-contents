@@ -49,9 +49,11 @@ enableEmoji = true
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
   theme = "poppy" #change from sky to water, then 3 lines: commit,message, push
-  #then Addins - New Post with RMarkdown Create.
+  #then Addins - New Post with RMarkdown - Create.
   #then go to content-blog-your filename say, posttestblog - index.md
   #Set title, etc details.
+  #Then push all changes with add,commit, push
+  
   
   
   # or, leave theme empty & make your own palette
