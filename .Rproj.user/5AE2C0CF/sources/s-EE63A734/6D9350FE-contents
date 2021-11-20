@@ -1,13 +1,13 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Hugo Ap\u00e9ro"
 author = "Alison Hill"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
-footnoteReturnLinkContents = "&#8617;" # ↩
+footnoteReturnLinkContents = "&#8617;" # u21a9
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 5
 preserveTaxonomyNames = true
@@ -106,7 +106,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/hashtag/ap\u00e9ro"
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
